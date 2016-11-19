@@ -1,6 +1,10 @@
+Flexible Bot Based On TeleSeed :)
 
-### BlackPlus > [GitHub](https://GitHub.com/Mehdi-HS/BlackPlus) | [Site](BlackPlus.ir) |  [Channel](https://telegram.me/black_ch) | [Bot ID](https;//telegram.me/blackplus)
+Developed by @TheCliffe 
 
+The install Guide will display here as soon as possible :)
 
+have fun with this bot and i hope you enjoy it :)
 
+good luck =))
 
